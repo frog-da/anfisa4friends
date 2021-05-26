@@ -1,1 +1,1 @@
-web: gunicorn wsgi --log-file -
+web: gunicorn anfisa4friends.wsgi --log-file -
