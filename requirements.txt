@@ -8,5 +8,5 @@ requests==2.25.1
 sqlparse==0.4.1
 urllib3==1.26.4
 gunicorn==20.1.0
-whitenoise==4.0.0
+whitenoise==5.0.0
 psycopg2==2.8.6
