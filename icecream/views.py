@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from models import icecream_db
+from .models import icecream_db
 
 
 def icecream_detail(request, pk):
